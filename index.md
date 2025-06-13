@@ -4,6 +4,7 @@ quinten814 yapping shit about notebook's formchanges
 - [drive forms](#drive-forms)
   * [radiant form](#radiant-form)
   * [converge form](#converge-form)
+  * [indikating form](#indikating-form)
 
 # in general
 
