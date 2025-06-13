@@ -1,6 +1,9 @@
 quinten814 yapping shit about notebook's formchanges
 
-{.toc}
+- [in general](#in-general)
+- [drive forms](#drive-forms)
+  * [radiant form](#radiant-form)
+  * [converge form](#converge-form)
 
 # in general
 
