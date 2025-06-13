@@ -1,6 +1,6 @@
 quinten814 yapping shit about notebook's formchanges
 
-[[_TOC_]]
+{.toc}
 
 # in general
 
