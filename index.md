@@ -1,3 +1,3 @@
 #quinten814 markdown spamming simulator
 
-* [formchanges yapping](/formride)
+* [formchanges yapping](/markdown/formride)
